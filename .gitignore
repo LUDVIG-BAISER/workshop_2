@@ -1,0 +1,4 @@
+profile_env/
+*.pyc
+.ipynb_checkpoints/
+/Предсказание покупки (DS_2)/
